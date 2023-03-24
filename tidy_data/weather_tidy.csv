@@ -1,0 +1,184 @@
+year,round,race_name,weather_class,weather_celsius,race_id
+2014,1,Australian Grand Prix,Overcast,19,900
+2014,2,Malaysian Grand Prix,Dry,32,901
+2014,3,Bahrain Grand Prix,Dry,26,902
+2014,4,Chinese Grand Prix,Mostly cloudy,NA,903
+2014,5,Spanish Grand Prix,Sunny,NA,904
+2014,6,Monaco Grand Prix,Overcast,21,905
+2014,7,Canadian Grand Prix,Sunny,28,906
+2014,8,Austrian Grand Prix,Partly cloudy,NA,907
+2014,9,British Grand Prix,Mostly cloudy,21,908
+2014,10,German Grand Prix,Cloudy,26,909
+2014,11,Hungarian Grand Prix,Damp,26,910
+2014,12,Belgian Grand Prix,Mostly cloudy,15,911
+2014,13,Italian Grand Prix,Sunny,25,912
+2014,14,Singapore Grand Prix,Clear,30,913
+2014,15,Japanese Grand Prix,Rain,20,914
+2014,16,Russian Grand Prix,Dry,21,915
+2014,17,United States Grand Prix,Sunny,23,916
+2014,18,Brazilian Grand Prix,Sunny,24,917
+2014,19,Abu Dhabi Grand Prix,Clear,30,918
+2015,1,Australian Grand Prix,Partly cloudy,18,926
+2015,2,Malaysian Grand Prix,Sunny,33,927
+2015,3,Chinese Grand Prix,Sunny,21,928
+2015,4,Bahrain Grand Prix,Sunny,26,929
+2015,5,Spanish Grand Prix,Sunny,25,930
+2015,6,Monaco Grand Prix,Partly cloudy,19,931
+2015,7,Canadian Grand Prix,Sunny,21,932
+2015,8,Austrian Grand Prix,Cloudy,15,933
+2015,9,British Grand Prix,Rain,20,934
+2015,10,Hungarian Grand Prix,Sunny,24,936
+2015,11,Belgian Grand Prix,Cloudy,23,937
+2015,12,Italian Grand Prix,Partly cloudy,23,938
+2015,13,Singapore Grand Prix,Dry,29,939
+2015,14,Japanese Grand Prix,Partly cloudy,27,940
+2015,15,Russian Grand Prix,Partly cloudy,18,941
+2015,16,United States Grand Prix,Very cloudy,17,942
+2015,17,Mexican Grand Prix,Partly cloudy,24,943
+2015,18,Brazilian Grand Prix,Dry,28,944
+2015,19,Abu Dhabi Grand Prix,Clear,27,945
+2016,1,Australian Grand Prix,Partly cloudy,23,948
+2016,2,Bahrain Grand Prix,Dry,22,949
+2016,3,Chinese Grand Prix,Sunny,21,950
+2016,4,Russian Grand Prix,Partly cloudy,16,951
+2016,5,Spanish Grand Prix,Partly cloudy,22,952
+2016,6,Monaco Grand Prix,Rain,18,953
+2016,7,Canadian Grand Prix,Cloudy,12,954
+2016,8,European Grand Prix,Partly cloudy,33,955
+2016,9,Austrian Grand Prix,Cloudy,NA,956
+2016,10,British Grand Prix,Wet,NA,957
+2016,11,Hungarian Grand Prix,Sunny,NA,958
+2016,12,German Grand Prix,Partly cloudy,NA,959
+2016,13,Belgian Grand Prix,Partly cloudy,NA,960
+2016,14,Italian Grand Prix,Sunny,NA,961
+2016,15,Singapore Grand Prix,Clear,30,962
+2016,16,Malaysian Grand Prix,Sunny,33,963
+2016,17,Japanese Grand Prix,Cloudy,NA,964
+2016,18,United States Grand Prix,Sunny,29,965
+2016,19,Mexican Grand Prix,Sunny,NA,966
+2016,20,Brazilian Grand Prix,Rain,16,967
+2016,21,Abu Dhabi Grand Prix,Sunny,NA,968
+2017,1,Australian Grand Prix,Partly cloudy,24,969
+2017,2,Chinese Grand Prix,Rain,NA,970
+2017,3,Bahrain Grand Prix,NA,NA,971
+2017,4,Russian Grand Prix,NA,NA,972
+2017,5,Spanish Grand Prix,NA,NA,973
+2017,6,Monaco Grand Prix,NA,NA,974
+2017,7,Canadian Grand Prix,Sunny,29,975
+2017,8,Azerbaijan Grand Prix,Sunny,NA,976
+2017,9,Austrian Grand Prix,Partly cloudy,NA,977
+2017,10,British Grand Prix,Overcast,NA,978
+2017,11,Hungarian Grand Prix,Sunny,NA,979
+2017,12,Belgian Grand Prix,Partly cloudy,NA,980
+2017,13,Italian Grand Prix,Sunny,NA,981
+2017,14,Singapore Grand Prix,Wet,28,982
+2017,15,Malaysian Grand Prix,Cloudy,NA,983
+2017,16,Japanese Grand Prix,Sunny,NA,984
+2017,17,United States Grand Prix,Sunny,29,985
+2017,18,Mexican Grand Prix,Sunny,NA,986
+2017,19,Brazilian Grand Prix,NA,NA,987
+2017,20,Abu Dhabi Grand Prix,Clear,NA,988
+2018,1,Australian Grand Prix,Sunny,NA,989
+2018,2,Bahrain Grand Prix,NA,NA,990
+2018,3,Chinese Grand Prix,NA,NA,991
+2018,4,Azerbaijan Grand Prix,Cloudy,NA,992
+2018,5,Spanish Grand Prix,Partly cloudy,16,993
+2018,6,Monaco Grand Prix,NA,NA,994
+2018,7,Canadian Grand Prix,NA,23,995
+2018,8,French Grand Prix,Partly cloudy,NA,996
+2018,9,Austrian Grand Prix,Sunny,NA,997
+2018,10,British Grand Prix,Sunny,27,998
+2018,11,German Grand Prix,Rain,NA,999
+2018,12,Hungarian Grand Prix,NA,NA,1000
+2018,13,Belgian Grand Prix,NA,NA,1001
+2018,14,Italian Grand Prix,NA,NA,1002
+2018,15,Singapore Grand Prix,NA,NA,1003
+2018,16,Russian Grand Prix,NA,NA,1004
+2018,17,Japanese Grand Prix,NA,NA,1005
+2018,18,United States Grand Prix,Partly cloudy,NA,1006
+2018,19,Mexican Grand Prix,NA,NA,1007
+2018,20,Brazilian Grand Prix,NA,NA,1008
+2018,21,Abu Dhabi Grand Prix,NA,NA,1009
+2019,1,Australian Grand Prix,NA,NA,1010
+2019,2,Bahrain Grand Prix,Clear,NA,1011
+2019,3,Chinese Grand Prix,NA,NA,1012
+2019,4,Azerbaijan Grand Prix,NA,NA,1013
+2019,5,Spanish Grand Prix,NA,NA,1014
+2019,6,Monaco Grand Prix,Clear,NA,1015
+2019,7,Canadian Grand Prix,NA,30,1016
+2019,8,French Grand Prix,Clear,NA,1017
+2019,9,Austrian Grand Prix,Sunny,36,1018
+2019,10,British Grand Prix,Partly cloudy,NA,1019
+2019,11,German Grand Prix,Rain,NA,1020
+2019,12,Hungarian Grand Prix,Sunny,NA,1021
+2019,13,Belgian Grand Prix,Partly cloudy,NA,1022
+2019,14,Italian Grand Prix,Partly cloudy,NA,1023
+2019,15,Singapore Grand Prix,Hazy,NA,1024
+2019,16,Russian Grand Prix,Partly cloudy,NA,1025
+2019,17,Japanese Grand Prix,Sunny,NA,1026
+2019,18,Mexican Grand Prix,Partly cloudy,NA,1027
+2019,19,United States Grand Prix,Sunny,NA,1028
+2019,20,Brazilian Grand Prix,Sunny,NA,1029
+2019,21,Abu Dhabi Grand Prix,Clear,NA,1030
+2020,1,Austrian Grand Prix,Sunny,NA,1031
+2020,2,Styrian Grand Prix,Sunny,NA,1032
+2020,3,Hungarian Grand Prix,Wet,NA,1033
+2020,4,British Grand Prix,Partly cloudy,NA,1034
+2020,5,70th Anniversary Grand Prix,Sunny,NA,1035
+2020,6,Spanish Grand Prix,Partly cloudy,NA,1036
+2020,7,Belgian Grand Prix,Partly cloudy,NA,1037
+2020,8,Italian Grand Prix,Sunny,NA,1038
+2020,9,Tuscan Grand Prix,Sunny,NA,1039
+2020,10,Russian Grand Prix,Sunny,NA,1040
+2020,11,Eifel Grand Prix,Partly cloudy,10,1041
+2020,12,Portuguese Grand Prix,Cloudy,NA,1042
+2020,13,Emilia Romagna Grand Prix,Partly cloudy,NA,1043
+2020,14,Turkish Grand Prix,Wet,14,1044
+2020,15,Bahrain Grand Prix,Clear,NA,1045
+2020,16,Sakhir Grand Prix,Clear,NA,1046
+2020,17,Abu Dhabi Grand Prix,Clear,NA,1047
+2021,1,Bahrain Grand Prix,Clear,21,1052
+2021,2,Emilia Romagna Grand Prix,Wet,9,1053
+2021,3,Portuguese Grand Prix,Partly cloudy,NA,1054
+2021,4,Spanish Grand Prix,Cloudy,NA,1055
+2021,5,Monaco Grand Prix,Sunny,NA,1056
+2021,6,Azerbaijan Grand Prix,Sunny,NA,1057
+2021,7,French Grand Prix,Partly cloudy,27,1059
+2021,8,Styrian Grand Prix,Partly cloudy,29,1058
+2021,9,Austrian Grand Prix,Partly cloudy,NA,1060
+2021,10,British Grand Prix,Clear,31,1061
+2021,11,Hungarian Grand Prix,Rain,29,1062
+2021,12,Belgian Grand Prix,Rain,NA,1063
+2021,13,Dutch Grand Prix,Sunny,NA,1064
+2021,14,Italian Grand Prix,Sunny,NA,1065
+2021,15,Russian Grand Prix,Rain,NA,1066
+2021,16,Turkish Grand Prix,Rain,NA,1067
+2021,17,United States Grand Prix,Sunny,NA,1069
+2021,18,Mexico City Grand Prix,Sunny,NA,1070
+2021,19,São Paulo Grand Prix,Sunny,NA,1071
+2021,20,Qatar Grand Prix,Clear,NA,1051
+2021,21,Saudi Arabian Grand Prix,Clear,NA,1072
+2021,22,Abu Dhabi Grand Prix,Clear,NA,1073
+2022,1,Bahrain Grand Prix,Clear,NA,1074
+2022,2,Saudi Arabian Grand Prix,Clear,NA,1075
+2022,3,Australian Grand Prix,Partly cloudy,NA,1076
+2022,4,Emilia Romagna Grand Prix,Damp,NA,1077
+2022,5,Miami Grand Prix,Partly cloudy,NA,1078
+2022,6,Spanish Grand Prix,Sunny,NA,1079
+2022,7,Monaco Grand Prix,Rain,NA,1080
+2022,8,Azerbaijan Grand Prix,Sunny,NA,1081
+2022,9,Canadian Grand Prix,Sunny,NA,1082
+2022,10,British Grand Prix,Partly cloudy,NA,1083
+2022,11,Austrian Grand Prix,Partly cloudy,NA,1084
+2022,12,French Grand Prix,Sunny,NA,1085
+2022,13,Hungarian Grand Prix,Wet,NA,1086
+2022,14,Belgian Grand Prix,Sunny,NA,1087
+2022,15,Dutch Grand Prix,Partly cloudy,NA,1088
+2022,16,Italian Grand Prix,Sunny,NA,1089
+2022,17,Singapore Grand Prix,Damp,NA,1091
+2022,18,Japanese Grand Prix,Rain,NA,1092
+2022,19,United States Grand Prix,Partly cloudy,NA,1093
+2022,20,Mexico City Grand Prix,Partly cloudy,NA,1094
+2022,21,Brazilian Grand Prix,Cloudy,NA,1095
+2022,22,Abu Dhabi Grand Prix,Clear,NA,1096
+2023,1,Bahrain Grand Prix,Clear,NA,1098

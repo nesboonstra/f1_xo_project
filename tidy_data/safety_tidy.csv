@@ -1,0 +1,226 @@
+year,round,race_name,safety_start,safety_end,safety_id,race_id
+2014,1,Australian Grand Prix,12,15,1,900
+2014,3,Bahrain Grand Prix,41,46,2,902
+2014,6,Monaco Grand Prix,1,3,3,905
+2014,6,Monaco Grand Prix,26,30,4,905
+2014,7,Canadian Grand Prix,1,7,5,906
+2014,7,Canadian Grand Prix,70,70,6,906
+2014,9,British Grand Prix,1,2,7,908
+2014,10,German Grand Prix,1,2,8,909
+2014,11,Hungarian Grand Prix,8,13,9,910
+2014,11,Hungarian Grand Prix,23,26,10,910
+2014,14,Singapore Grand Prix,31,37,11,913
+2014,15,Japanese Grand Prix,1,2,12,914
+2014,15,Japanese Grand Prix,3,9,13,914
+2014,15,Japanese Grand Prix,44,44,14,914
+2014,17,United States Grand Prix,1,4,15,916
+2015,1,Australian Grand Prix,1,3,16,926
+2015,2,Malaysian Grand Prix,4,6,17,927
+2015,2,Malaysian Grand Prix,54,56,18,927
+2015,6,Monaco Grand Prix,64,70,19,931
+2015,8,Austrian Grand Prix,1,6,20,933
+2015,9,British Grand Prix,1,3,21,934
+2015,9,British Grand Prix,34,35,22,934
+2015,10,Hungarian Grand Prix,43,48,23,936
+2015,11,Belgian Grand Prix,21,22,24,937
+2015,13,Singapore Grand Prix,13,18,25,939
+2015,13,Singapore Grand Prix,37,40,26,939
+2015,15,Russian Grand Prix,1,3,27,941
+2015,15,Russian Grand Prix,12,16,28,941
+2015,16,United States Grand Prix,5,8,29,942
+2015,16,United States Grand Prix,27,32,30,942
+2015,16,United States Grand Prix,38,39,31,942
+2015,16,United States Grand Prix,43,46,32,942
+2015,17,Mexican Grand Prix,52,57,33,943
+2016,1,Australian Grand Prix,17,19,34,948
+2016,3,Chinese Grand Prix,4,8,35,950
+2016,4,Russian Grand Prix,1,3,36,951
+2016,5,Spanish Grand Prix,1,3,37,952
+2016,6,Monaco Grand Prix,1,10,38,953
+2016,6,Monaco Grand Prix,35,36,39,953
+2016,6,Monaco Grand Prix,51,51,40,953
+2016,6,Monaco Grand Prix,68,69,41,953
+2016,7,Canadian Grand Prix,11,11,42,954
+2016,9,Austrian Grand Prix,27,31,43,956
+2016,10,British Grand Prix,1,5,44,957
+2016,10,British Grand Prix,7,8,45,957
+2016,13,Belgian Grand Prix,2,3,46,960
+2016,13,Belgian Grand Prix,6,10,47,960
+2016,15,Singapore Grand Prix,1,2,48,962
+2016,16,Malaysian Grand Prix,1,2,49,963
+2016,16,Malaysian Grand Prix,9,10,50,963
+2016,16,Malaysian Grand Prix,41,43,51,963
+2016,18,United States Grand Prix,31,33,52,965
+2016,19,Mexican Grand Prix,1,3,53,966
+2016,20,Brazilian Grand Prix,1,7,54,967
+2016,20,Brazilian Grand Prix,14,21,55,967
+2016,20,Brazilian Grand Prix,22,29,56,967
+2016,20,Brazilian Grand Prix,30,31,57,967
+2016,20,Brazilian Grand Prix,49,55,58,967
+2017,2,Chinese Grand Prix,2,7,59,970
+2017,3,Bahrain Grand Prix,13,16,60,971
+2017,4,Russian Grand Prix,1,3,61,972
+2017,5,Spanish Grand Prix,34,37,62,973
+2017,6,Monaco Grand Prix,60,66,63,974
+2017,7,Canadian Grand Prix,1,3,64,975
+2017,7,Canadian Grand Prix,11,14,65,975
+2017,8,Azerbaijan Grand Prix,12,23,66,976
+2017,10,British Grand Prix,2,4,67,978
+2017,11,Hungarian Grand Prix,1,5,68,979
+2017,12,Belgian Grand Prix,30,33,69,980
+2017,14,Singapore Grand Prix,1,4,70,982
+2017,14,Singapore Grand Prix,11,14,71,982
+2017,14,Singapore Grand Prix,38,40,72,982
+2017,16,Japanese Grand Prix,2,3,73,984
+2017,16,Japanese Grand Prix,9,10,74,984
+2017,16,Japanese Grand Prix,48,49,75,984
+2017,18,Mexican Grand Prix,32,33,76,986
+2017,19,Brazilian Grand Prix,1,5,77,987
+2018,1,Australian Grand Prix,26,31,78,989
+2018,2,Bahrain Grand Prix,2,4,79,990
+2018,3,Chinese Grand Prix,31,35,80,991
+2018,4,Azerbaijan Grand Prix,1,5,81,992
+2018,4,Azerbaijan Grand Prix,40,47,82,992
+2018,5,Spanish Grand Prix,1,6,83,993
+2018,5,Spanish Grand Prix,41,42,84,993
+2018,6,Monaco Grand Prix,72,74,85,994
+2018,7,Canadian Grand Prix,1,4,86,995
+2018,8,French Grand Prix,1,5,87,996
+2018,8,French Grand Prix,51,52,88,996
+2018,9,Austrian Grand Prix,15,16,89,997
+2018,10,British Grand Prix,33,41,90,998
+2018,11,German Grand Prix,52,57,91,999
+2018,12,Hungarian Grand Prix,6,7,92,1000
+2018,12,Hungarian Grand Prix,51,52,93,1000
+2018,13,Belgian Grand Prix,1,4,94,1001
+2018,14,Italian Grand Prix,1,3,95,1002
+2018,15,Singapore Grand Prix,1,4,96,1003
+2018,17,Japanese Grand Prix,4,7,97,1005
+2018,17,Japanese Grand Prix,41,42,98,1005
+2018,18,United States Grand Prix,11,12,99,1006
+2018,19,Mexican Grand Prix,5,5,100,1007
+2018,19,Mexican Grand Prix,31,32,101,1007
+2018,19,Mexican Grand Prix,62,63,102,1007
+2018,21,Abu Dhabi Grand Prix,1,4,103,1009
+2018,21,Abu Dhabi Grand Prix,7,8,104,1009
+2019,2,Bahrain Grand Prix,55,57,105,1011
+2019,3,Chinese Grand Prix,1,2,106,1012
+2019,4,Azerbaijan Grand Prix,39,41,107,1013
+2019,5,Spanish Grand Prix,46,52,108,1014
+2019,6,Monaco Grand Prix,11,14,109,1015
+2019,8,French Grand Prix,50,50,110,1017
+2019,10,British Grand Prix,20,23,111,1019
+2019,11,German Grand Prix,3,4,112,1020
+2019,11,German Grand Prix,15,16,113,1020
+2019,11,German Grand Prix,28,33,114,1020
+2019,11,German Grand Prix,41,45,115,1020
+2019,11,German Grand Prix,57,59,116,1020
+2019,13,Belgian Grand Prix,1,4,117,1022
+2019,14,Italian Grand Prix,29,29,118,1023
+2019,14,Italian Grand Prix,31,31,119,1023
+2019,15,Singapore Grand Prix,36,40,120,1024
+2019,15,Singapore Grand Prix,44,47,121,1024
+2019,15,Singapore Grand Prix,50,51,122,1024
+2019,16,Russian Grand Prix,1,3,123,1025
+2019,16,Russian Grand Prix,28,32,124,1025
+2019,18,Mexican Grand Prix,1,2,125,1027
+2019,20,Brazilian Grand Prix,54,59,126,1029
+2019,20,Brazilian Grand Prix,66,69,127,1029
+2020,1,Austrian Grand Prix,26,30,128,1031
+2020,1,Austrian Grand Prix,51,60,129,1031
+2020,2,Styrian Grand Prix,1,3,130,1032
+2020,4,British Grand Prix,2,5,131,1034
+2020,4,British Grand Prix,12,18,132,1034
+2020,7,Belgian Grand Prix,11,14,133,1037
+2020,8,Italian Grand Prix,20,23,134,1038
+2020,8,Italian Grand Prix,25,26,135,1038
+2020,9,Tuscan Grand Prix,1,8,136,1039
+2020,9,Tuscan Grand Prix,9,9,137,1039
+2020,9,Tuscan Grand Prix,44,45,138,1039
+2020,9,Tuscan Grand Prix,46,46,139,1039
+2020,10,Russian Grand Prix,1,5,140,1040
+2020,10,Russian Grand Prix,43,43,141,1040
+2020,11,Eifel Grand Prix,16,17,142,1041
+2020,11,Eifel Grand Prix,45,49,143,1041
+2020,13,Emilia Romagna Grand Prix,30,30,144,1043
+2020,13,Emilia Romagna Grand Prix,51,57,145,1043
+2020,14,Turkish Grand Prix,13,14,146,1044
+2020,15,Bahrain Grand Prix,1,1,147,1045
+2020,15,Bahrain Grand Prix,2,8,148,1045
+2020,15,Bahrain Grand Prix,55,57,149,1045
+2020,16,Sakhir Grand Prix,1,6,150,1046
+2020,16,Sakhir Grand Prix,55,56,151,1046
+2020,16,Sakhir Grand Prix,62,68,152,1046
+2020,17,Abu Dhabi Grand Prix,10,13,153,1047
+2021,1,Bahrain Grand Prix,1,5,154,1052
+2021,2,Emilia Romagna Grand Prix,1,6,155,1053
+2021,2,Emilia Romagna Grand Prix,32,33,156,1053
+2021,2,Emilia Romagna Grand Prix,34,34,157,1053
+2021,3,Portuguese Grand Prix,2,6,158,1054
+2021,4,Spanish Grand Prix,8,10,159,1055
+2021,6,Azerbaijan Grand Prix,30,35,160,1057
+2021,6,Azerbaijan Grand Prix,47,48,161,1057
+2021,6,Azerbaijan Grand Prix,49,49,162,1057
+2021,9,Austrian Grand Prix,1,3,163,1060
+2021,10,British Grand Prix,1,2,164,1061
+2021,10,British Grand Prix,3,3,165,1061
+2021,11,Hungarian Grand Prix,1,2,166,1062
+2021,11,Hungarian Grand Prix,3,3,167,1062
+2021,12,Belgian Grand Prix,1,1,168,1063
+2021,14,Italian Grand Prix,1,1,169,1065
+2021,14,Italian Grand Prix,26,30,170,1065
+2021,14,Italian Grand Prix,44,44,171,1065
+2021,17,United States Grand Prix,28,28,172,1069
+2021,18,Russian Grand Prix,1,4,173,NA
+2021,19,Sao Paulo Grand Prix,6,9,174,NA
+2021,19,Sao Paulo Grand Prix,12,14,175,NA
+2021,19,Sao Paulo Grand Prix,30,30,176,NA
+2021,20,Qatar Grand Prix,55,56,177,1051
+2021,21,Saudi Arabian Grand Prix,10,13,178,1072
+2021,21,Saudi Arabian Grand Prix,14,15,179,1072
+2021,21,Saudi Arabian Grand Prix,16,16,180,1072
+2021,21,Saudi Arabian Grand Prix,23,24,181,1072
+2021,21,Saudi Arabian Grand Prix,29,33,182,1072
+2021,21,Saudi Arabian Grand Prix,36,36,183,1072
+2021,22,Abu Dhabi Grand Prix,36,37,184,1073
+2021,22,Abu Dhabi Grand Prix,53,57,185,1073
+2022,1,Bahrain Grand Prix,46,50,186,1074
+2022,2,Saudi Arabian Grand Prix,17,20,187,1075
+2022,2,Saudi Arabian Grand Prix,38,41,188,1075
+2022,3,Australian Grand Prix,3,6,189,1076
+2022,3,Australian Grand Prix,23,26,190,1076
+2022,3,Australian Grand Prix,39,40,191,1076
+2022,4,Emilia Romagna Grand Prix,1,4,192,1077
+2022,5,Miami Grand Prix,41,46,193,1078
+2022,7,Monaco Grand Prix,1,2,194,1080
+2022,7,Monaco Grand Prix,27,30,195,1080
+2022,7,Monaco Grand Prix,31,32,196,1080
+2022,8,Azerbaijan Grand Prix,9,10,197,1081
+2022,8,Azerbaijan Grand Prix,33,35,198,1081
+2022,9,Canadian Grand Prix,9,10,199,1082
+2022,9,Canadian Grand Prix,20,21,200,1082
+2022,9,Canadian Grand Prix,49,54,201,1082
+2022,10,British Grand Prix,1,1,202,1083
+2022,10,British Grand Prix,2,2,203,1083
+2022,10,British Grand Prix,39,42,204,1083
+2022,11,Austrian Grand Prix,58,59,205,1084
+2022,12,French Grand Prix,18,20,206,1085
+2022,12,French Grand Prix,50,50,207,1085
+2022,13,Hungarian Grand Prix,2,3,208,1086
+2022,13,Hungarian Grand Prix,68,69,209,1086
+2022,14,Belgian Grand Prix,2,4,210,1087
+2022,15,Dutch Grand Prix,48,50,211,1088
+2022,15,Dutch Grand Prix,56,60,212,1088
+2022,16,Italian Grand Prix,12,13,213,1089
+2022,16,Italian Grand Prix,48,53,214,1089
+2022,17,Singapore Grand Prix,8,10,215,1091
+2022,17,Singapore Grand Prix,22,23,216,1091
+2022,17,Singapore Grand Prix,26,30,217,1091
+2022,17,Singapore Grand Prix,36,39,218,1091
+2022,18,Japanese Grand Prix,2,3,219,1092
+2022,18,Japanese Grand Prix,4,5,220,1092
+2022,19,United States Grand Prix,18,25,221,1093
+2022,20,Mexico City Grand Prix,65,66,222,1094
+2022,21,Sao Paulo Grand Prix,1,6,223,NA
+2022,21,Sao Paulo Grand Prix,53,59,224,NA
+2023,1,Bahrain Grand Prix,41,42,225,1098

@@ -1,0 +1,226 @@
+year,round,name,safety_count,safety_start,safety_end
+2014,1,Australian Grand Prix,1,12,15
+2014,3,Bahrain Grand Prix,1,41,46
+2014,6,Monaco Grand Prix,1,1,3
+2014,6,Monaco Grand Prix,2,26,30
+2014,7,Canadian Grand Prix,1,1,7
+2014,7,Canadian Grand Prix,2,70,70
+2014,9,British Grand Prix,1,1,2
+2014,10,German Grand Prix,1,1,2
+2014,11,Hungarian Grand Prix,1,8,13
+2014,11,Hungarian Grand Prix,2,23,26
+2014,14,Singapore Grand Prix,1,31,37
+2014,15,Japanese Grand Prix,1,1,2
+2014,15,Japanese Grand Prix,2,3,9
+2014,15,Japanese Grand Prix,3,44,44
+2014,17,United States Grand Prix,1,1,4
+2015,1,Australian Grand Prix,1,1,3
+2015,2,Malaysian Grand Prix,1,4,6
+2015,2,Malaysian Grand Prix,2,54,56
+2015,6,Monaco Grand Prix,1,64,70
+2015,8,Austrian Grand Prix,1,1,6
+2015,9,British Grand Prix,1,1,3
+2015,9,British Grand Prix,2,34,35
+2015,10,Hungarian Grand Prix,1,43,48
+2015,11,Belgian Grand Prix,1,21,22
+2015,13,Singapore Grand Prix,1,13,18
+2015,13,Singapore Grand Prix,2,37,40
+2015,15,Russian Grand Prix,1,1,3
+2015,15,Russian Grand Prix,2,12,16
+2015,16,United States Grand Prix,1,5,8
+2015,16,United States Grand Prix,2,27,32
+2015,16,United States Grand Prix,3,38,39
+2015,16,United States Grand Prix,4,43,46
+2015,17,Mexican Grand Prix,1,52,57
+2016,1,Australian Grand Prix,1,17,19
+2016,3,Chinese Grand Prix,1,4,8
+2016,4,Russian Grand Prix,1,1,3
+2016,5,Spanish Grand Prix,1,1,3
+2016,6,Monaco Grand Prix,1,1,10
+2016,6,Monaco Grand Prix,2,35,36
+2016,6,Monaco Grand Prix,3,51,51
+2016,6,Monaco Grand Prix,4,68,69
+2016,7,Canadian Grand Prix,1,11,11
+2016,9,Austrian Grand Prix,1,27,31
+2016,10,British Grand Prix,1,1,5
+2016,10,British Grand Prix,2,7,8
+2016,13,Belgian Grand Prix,1,2,3
+2016,13,Belgian Grand Prix,2,6,10
+2016,15,Singapore Grand Prix,1,1,2
+2016,16,Malaysian Grand Prix,1,1,2
+2016,16,Malaysian Grand Prix,2,9,10
+2016,16,Malaysian Grand Prix,3,41,43
+2016,18,United States Grand Prix,1,31,33
+2016,19,Mexican Grand Prix,1,1,3
+2016,20,Brazilian Grand Prix,1,1,7
+2016,20,Brazilian Grand Prix,2,14,21
+2016,20,Brazilian Grand Prix,3,22,29
+2016,20,Brazilian Grand Prix,4,30,31
+2016,20,Brazilian Grand Prix,5,49,55
+2017,2,Chinese Grand Prix,1,2,7
+2017,3,Bahrain Grand Prix,1,13,16
+2017,4,Russian Grand Prix,1,1,3
+2017,5,Spanish Grand Prix,1,34,37
+2017,6,Monaco Grand Prix,1,60,66
+2017,7,Canadian Grand Prix,1,1,3
+2017,7,Canadian Grand Prix,2,11,14
+2017,8,Azerbaijan Grand Prix,1,12,23
+2017,10,British Grand Prix,1,2,4
+2017,11,Hungarian Grand Prix,1,1,5
+2017,12,Belgian Grand Prix,1,30,33
+2017,14,Singapore Grand Prix,1,1,4
+2017,14,Singapore Grand Prix,2,11,14
+2017,14,Singapore Grand Prix,3,38,40
+2017,16,Japanese Grand Prix,1,2,3
+2017,16,Japanese Grand Prix,2,9,10
+2017,16,Japanese Grand Prix,3,48,49
+2017,18,Mexican Grand Prix,1,32,33
+2017,19,Brazilian Grand Prix,1,1,5
+2018,1,Australian Grand Prix,1,26,31
+2018,2,Bahrain Grand Prix,1,2,4
+2018,3,Chinese Grand Prix,1,31,35
+2018,4,Azerbaijan Grand Prix,1,1,5
+2018,4,Azerbaijan Grand Prix,2,40,47
+2018,5,Spanish Grand Prix,1,1,6
+2018,5,Spanish Grand Prix,2,41,42
+2018,6,Monaco Grand Prix,1,72,74
+2018,7,Canadian Grand Prix,1,1,4
+2018,8,French Grand Prix,1,1,5
+2018,8,French Grand Prix,2,51,52
+2018,9,Austrian Grand Prix,1,15,16
+2018,10,British Grand Prix,1,33,41
+2018,11,German Grand Prix,1,52,57
+2018,12,Hungarian Grand Prix,1,6,7
+2018,12,Hungarian Grand Prix,2,51,52
+2018,13,Belgian Grand Prix,1,1,4
+2018,14,Italian Grand Prix,1,1,3
+2018,15,Singapore Grand Prix,1,1,4
+2018,17,Japanese Grand Prix,1,4,7
+2018,17,Japanese Grand Prix,2,41,42
+2018,18,United States Grand Prix,1,11,12
+2018,19,Mexican Grand Prix,1,5,5
+2018,19,Mexican Grand Prix,2,31,32
+2018,19,Mexican Grand Prix,3,62,63
+2018,21,Abu Dhabi Grand Prix,1,1,4
+2018,21,Abu Dhabi Grand Prix,2,7,8
+2019,2,Bahrain Grand Prix,1,55,57
+2019,3,Chinese Grand Prix,1,1,2
+2019,4,Azerbaijan Grand Prix,1,39,41
+2019,5,Spanish Grand Prix,1,46,52
+2019,6,Monaco Grand Prix,1,11,14
+2019,8,French Grand Prix,1,50,50
+2019,10,British Grand Prix,1,20,23
+2019,11,German Grand Prix,1,3,4
+2019,11,German Grand Prix,2,15,16
+2019,11,German Grand Prix,3,28,33
+2019,11,German Grand Prix,4,41,45
+2019,11,German Grand Prix,5,57,59
+2019,13,Belgian Grand Prix,1,1,4
+2019,14,Italian Grand Prix,1,29,29
+2019,14,Italian Grand Prix,2,31,31
+2019,15,Singapore Grand Prix,1,36,40
+2019,15,Singapore Grand Prix,2,44,47
+2019,15,Singapore Grand Prix,3,50,51
+2019,16,Russian Grand Prix,1,1,3
+2019,16,Russian Grand Prix,2,28,32
+2019,18,Mexican Grand Prix,1,1,2
+2019,20,Brazilian Grand Prix,1,54,59
+2019,20,Brazilian Grand Prix,2,66,69
+2020,1,Austrian Grand Prix,1,26,30
+2020,1,Austrian Grand Prix,2,51,60
+2020,2,Styrian Grand Prix,1,1,3
+2020,4,British Grand Prix,1,2,5
+2020,4,British Grand Prix,2,12,18
+2020,7,Belgian Grand Prix,1,11,14
+2020,8,Italian Grand Prix,1,20,23
+2020,8,Italian Grand Prix,2,25,26
+2020,9,Tuscan Grand Prix,1,1,8
+2020,9,Tuscan Grand Prix,2,9,9
+2020,9,Tuscan Grand Prix,3,44,45
+2020,9,Tuscan Grand Prix,4,46,46
+2020,10,Russian Grand Prix,1,1,5
+2020,10,Russian Grand Prix,2,43,43
+2020,11,Eifel Grand Prix,1,16,17
+2020,11,Eifel Grand Prix,2,45,49
+2020,13,Emilia Romagna Grand Prix,1,30,30
+2020,13,Emilia Romagna Grand Prix,2,51,57
+2020,14,Turkish Grand Prix,1,13,14
+2020,15,Bahrain Grand Prix,1,1,1
+2020,15,Bahrain Grand Prix,2,2,8
+2020,15,Bahrain Grand Prix,3,55,57
+2020,16,Sakhir Grand Prix,1,1,6
+2020,16,Sakhir Grand Prix,2,55,56
+2020,16,Sakhir Grand Prix,3,62,68
+2020,17,Abu Dhabi Grand Prix,1,10,13
+2021,1,Bahrain Grand Prix,1,1,5
+2021,2,Emilia Romagna Grand Prix,1,1,6
+2021,2,Emilia Romagna Grand Prix,2,32,33
+2021,2,Emilia Romagna Grand Prix,3,34,34
+2021,3,Portuguese Grand Prix,1,2,6
+2021,4,Spanish Grand Prix,1,8,10
+2021,6,Azerbaijan Grand Prix,1,30,35
+2021,6,Azerbaijan Grand Prix,2,47,48
+2021,6,Azerbaijan Grand Prix,3,49,49
+2021,9,Austrian Grand Prix,1,1,3
+2021,10,British Grand Prix,1,1,2
+2021,10,British Grand Prix,2,3,3
+2021,11,Hungarian Grand Prix,1,1,2
+2021,11,Hungarian Grand Prix,2,3,3
+2021,12,Belgian Grand Prix,1,1,1
+2021,14,Italian Grand Prix,1,1,1
+2021,14,Italian Grand Prix,2,26,30
+2021,14,Italian Grand Prix,3,44,44
+2021,17,United States Grand Prix,1,28,28
+2021,18,Russian Grand Prix,1,1,4
+2021,19,Sao Paulo Grand Prix,1,6,9
+2021,19,Sao Paulo Grand Prix,2,12,14
+2021,19,Sao Paulo Grand Prix,3,30,30
+2021,20,Qatar Grand Prix,1,55,56
+2021,21,Saudi Arabian Grand Prix,1,10,13
+2021,21,Saudi Arabian Grand Prix,2,14,15
+2021,21,Saudi Arabian Grand Prix,3,16,16
+2021,21,Saudi Arabian Grand Prix,4,23,24
+2021,21,Saudi Arabian Grand Prix,5,29,33
+2021,21,Saudi Arabian Grand Prix,6,36,36
+2021,22,Abu Dhabi Grand Prix,1,36,37
+2021,22,Abu Dhabi Grand Prix,2,53,57
+2022,1,Bahrain Grand Prix,1,46,50
+2022,2,Saudi Arabian Grand Prix,1,17,20
+2022,2,Saudi Arabian Grand Prix,2,38,41
+2022,3,Australian Grand Prix,1,3,6
+2022,3,Australian Grand Prix,2,23,26
+2022,3,Australian Grand Prix,3,39,40
+2022,4,Emilia Romagna Grand Prix,1,1,4
+2022,5,Miami Grand Prix,1,41,46
+2022,7,Monaco Grand Prix,1,1,2
+2022,7,Monaco Grand Prix,2,27,30
+2022,7,Monaco Grand Prix,3,31,32
+2022,8,Azerbaijan Grand Prix,1,9,10
+2022,8,Azerbaijan Grand Prix,2,33,35
+2022,9,Canadian Grand Prix,1,9,10
+2022,9,Canadian Grand Prix,2,20,21
+2022,9,Canadian Grand Prix,3,49,54
+2022,10,British Grand Prix,1,1,1
+2022,10,British Grand Prix,2,2,2
+2022,10,British Grand Prix,3,39,42
+2022,11,Austrian Grand Prix,1,58,59
+2022,12,French Grand Prix,1,18,20
+2022,12,French Grand Prix,2,50,50
+2022,13,Hungarian Grand Prix,1,2,3
+2022,13,Hungarian Grand Prix,2,68,69
+2022,14,Belgian Grand Prix,1,2,4
+2022,15,Dutch Grand Prix,1,48,50
+2022,15,Dutch Grand Prix,2,56,60
+2022,16,Italian Grand Prix,1,12,13
+2022,16,Italian Grand Prix,2,48,53
+2022,17,Singapore Grand Prix,1,8,10
+2022,17,Singapore Grand Prix,2,22,23
+2022,17,Singapore Grand Prix,3,26,30
+2022,17,Singapore Grand Prix,4,36,39
+2022,18,Japanese Grand Prix,1,2,3
+2022,18,Japanese Grand Prix,2,4,5
+2022,19,United States Grand Prix,1,18,25
+2022,20,Mexico City Grand Prix,1,65,66
+2022,21,Sao Paulo Grand Prix,1,1,6
+2022,21,Sao Paulo Grand Prix,2,53,59
+2023,1,Bahrain Grand Prix,1,41,42
