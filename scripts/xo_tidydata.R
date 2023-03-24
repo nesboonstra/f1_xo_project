@@ -44,7 +44,7 @@ colnames(constructor_standings) <- snakecols(constructor_standings)
 constructors <- read_csv("old_data/constructors.csv")
 colnames(constructors) <- snakecols(constructors)
 
-# write_csv(constructors,"tidy_data/constructors.csv")
+write_csv(constructors,"tidy_data/constructors_tidy.csv")
 
 # driver_standings.csv
 
