@@ -59,14 +59,16 @@ xo_dm <- pks_dm %>%
   dm_add_fk(safety_hybrid,year,seasons) %>% 
   dm_add_fk(safety_hybrid,race_id,races) %>% 
   dm_add_fk(pit_stops,race_id,races) %>% 
-  dm_add_fk(pit_stops,driver_id,drivers)
+  dm_add_fk(pit_stops,driver_id,drivers) %>% 
+  dm_add_fk(results,status_id,status)
 
 
 
-dm_draw(pks_dm,view_type="all")
+# dm_draw(pks_dm,view_type="all")
+
 dm_draw(
   xo_dm,
-  #view_type="all",
+  view_type="all",
   rankdir="TB",
   column_types = T
 )
